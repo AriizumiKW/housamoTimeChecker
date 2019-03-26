@@ -79,6 +79,9 @@ public class MainActivity extends AppCompatActivity {
             if(hour<=24){
                 String output = "体力回满的时间:\n明天 "+hour+"点"+minute+"分\n注意养肝";
                 Toast.makeText(MainActivity.this,output,Toast.LENGTH_LONG).show();
+            }else if(hour==24) {
+                String output = "体力回满的时间:\n明天 0点"+minute+"分\n注意养肝";
+                Toast.makeText(MainActivity.this,output,Toast.LENGTH_LONG).show();
             }else{
                 Toast.makeText(MainActivity.this,"非法输入，请检查",Toast.LENGTH_SHORT).show();
             }
