@@ -1,6 +1,9 @@
 # housamoTimeChecker
 一款简易的时间计算器，便于东放玩家进行时间管理。可运行在Android4.4+. 
+
 我developer一栏乱填的，所以可能会被Google play保护机制屏蔽，无视即可~
+
+APP目录：下载解压，进到\app\build\outputs\apk\debug.
 
 <img width="300" height="300" src="https://github.com/AriizumiKW/housamoTimeChecker/blob/master/README_PIC.jpg"/>
 
