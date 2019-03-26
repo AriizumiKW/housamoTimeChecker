@@ -8,3 +8,5 @@
 You can input your current physical into the FIRST editfield.
 
 Input your upper-limit physical into the SECOND editfield.
+
+NOTE: Perhaps you will be warned by Google Play, please just ignore it.
