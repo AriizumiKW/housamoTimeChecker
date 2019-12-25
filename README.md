@@ -5,8 +5,8 @@
 
 <img width="300" height="300" src="https://github.com/AriizumiKW/housamoTimeChecker/blob/master/README_PIC.jpg"/>
 
-You can input your current physical into the FIRST editfield.
+Please write your current energy point into the FIRST editfield.
 
-Input your upper-limit physical into the SECOND editfield.
+Write your upper-bounded energy point into the SECOND editfield.
 
-NOTE: Perhaps you will be warned by Google Play, please just ignore it.
+NOTE: If warned by Google Play, just ignore it.
