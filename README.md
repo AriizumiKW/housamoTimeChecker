@@ -10,3 +10,5 @@ Please write your current energy point into the FIRST editfield.
 Write your upper-bounded energy point into the SECOND editfield.
 
 NOTE: If warned by Google Play, just ignore it.
+
+NOTE2: Available for Android4.4+ only.
